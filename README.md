@@ -48,6 +48,8 @@ Please don't hesitate to reach out to me. I am more than happy to assist and col
 <br>
 
 To explore my projects, please visit my [GitHub profile](https://github.com/samthakur587).
+
+
 Feel free to connect with me on:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samunder-singh/)](https://www.linkedin.com/in/samunder-singh/)
