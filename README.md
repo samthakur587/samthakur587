@@ -28,7 +28,7 @@ Please don't hesitate to reach out to me. I am more than happy to assist and col
 
 ## Resume
 
-[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1HcspY18g5uxRrvlRxT9iDwquLHYzv6gy/view?usp=sharing)
+[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link)
 
 
 
