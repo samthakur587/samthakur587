@@ -12,8 +12,15 @@
 ✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science.\
 ✉️ &nbsp;Please Feel free to contact me at singhsamunder270@gmail.com for any help, queries, or collaboration opportunities. I'll try to respond as soon as I can.
 
+<div>
+ <h2 align="right" width='200'>RESUME</h2>
+  <a href="https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link">
+    <img src="https://github.com/samthakur587/samthakur587/blob/main/Screenshot%202023-10-15%20232757.png" align="right" width='300' heght = '150' alt="Resume Thumbnail">
+  </a>
+</div>
 
 <div align="left">
+  <h2 align="left" width='200'>🛠 &nbsp;TECH STACK</h2>
   ### 🛠 &nbsp;Tech Stack
 
   ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
@@ -37,9 +44,8 @@
   ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
   ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform%20%28GCP%29-05122A?style=flat&logo=google-cloud)&nbsp;
-<div align="right">
+<div>
   <a href="https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link">
-    <img src="https://github.com/samthakur587/samthakur587/blob/main/Screenshot%202023-10-15%20232757.png" width='150' heght='200' alt="Resume Thumbnail">
   </a>
 </div>
 
@@ -49,13 +55,13 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=samthakur587&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=samthakur587&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/samthakur587">
-  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samthakur587&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samthakur587&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=samthakur587&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" width = "400em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=samthakur587&layout=compact&langs_count=8&theme=midnight-purple"/>
 </a>
 </p>
 
