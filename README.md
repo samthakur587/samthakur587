@@ -1,7 +1,9 @@
 
-![9a17629c5ffff8e9d4b269d745346fab](https://user-images.githubusercontent.com/49721249/225820407-ce638561-2e66-411c-8f3b-b4b8fc1215df.gif)
 
-<img alt="Night Coding" src="Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Samunder </h2>
+<p align="center"><img alt="Night Coding" src="Hand%20Wave.gif" width='50' align="center"/></p><h2 align="center">Hey there! I'm Samunder </h2>
+
+<h2 align="center">Aspiring Data Scientist | Electronics & Communication Engineering Student with a Passion for Machine Learning, Computer Vision, and NLP</h2>
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -10,7 +12,12 @@
 ✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science.\
 ✉️ &nbsp;Please Feel free to contact me at singhsamunder270@gmail.com for any help, queries, or collaboration opportunities. I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="3AyY.gif" align="right" width = "300" height = "150"/>
+<div align="right">
+  <a href="https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link">
+    <img src="https://your-image-url.com/your-resume-image.jpg" alt="Resume Thumbnail">
+  </a>
+</div>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -38,10 +45,10 @@
 
 
 
-### 📑 &nbsp; Resume
-[![Resume PDF](https://img.shields.io/badge/View%20Resume-PDF-blue)](https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link)
 
 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=samthakur587&theme=radical&hide_border=true)](https://git.io/streak-stats)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
