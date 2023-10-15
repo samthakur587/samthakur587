@@ -12,17 +12,17 @@
 ✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science.\
 ✉️ &nbsp;Please Feel free to contact me at singhsamunder270@gmail.com for any help, queries, or collaboration opportunities. I'll try to respond as soon as I can.
 
-<div>
- <h2 align="right" width='200'>RESUME</h2>
+<p align="center">
+<h2 align="right" width='200'>RESUME</h2>
   <a href="https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link">
     <img src="https://github.com/samthakur587/samthakur587/blob/main/Screenshot%202023-10-15%20232757.png" align="right" width='300' heght = '150' alt="Resume Thumbnail">
   </a>
-</div>
+ <h2 align="left" width='200'>🛠 &nbsp;TECH STACK</h2>
+</p>
+
 
 <div align="left">
-  <h2 align="left" width='200'>🛠 &nbsp;TECH STACK</h2>
-  ### 🛠 &nbsp;Tech Stack
-
+  
   ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
@@ -54,6 +54,7 @@
 
 
 
+### ⚙️ &nbsp;GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=samthakur587&theme=radical&include_all_commits=true&count_private=true&hide_border=true&card_width=1000)](https://git.io/streak-stats)
 ### ⚙️ &nbsp;GitHub Analytics
