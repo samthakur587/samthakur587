@@ -12,36 +12,37 @@
 ✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science.\
 ✉️ &nbsp;Please Feel free to contact me at singhsamunder270@gmail.com for any help, queries, or collaboration opportunities. I'll try to respond as soon as I can.
 
+
+<div align="left">
+  ### 🛠 &nbsp;Tech Stack
+
+  ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
+  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
+  ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)&nbsp;\
+  ![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
+  ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
+  ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;\
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+  ![RCNN family](https://img.shields.io/badge/-RCNN%20family-05122A?style=flat&logo=rcnn)&nbsp;
+  ![YOLO family](https://img.shields.io/badge/-YOLO%20family-05122A?style=flat&logo=yolo)&nbsp;\
+  ![SSD](https://img.shields.io/badge/-SSD-05122A?style=flat&logo=ssd)&nbsp;
+  ![Object Segmentation (Mask-RCNN)](https://img.shields.io/badge/-Object%20Segmentation%20%28Mask--RCNN%29-05122A?style=flat&logo=mask-rcnn)&nbsp;
+  ![Object Tracking](https://img.shields.io/badge/-Object%20Tracking-05122A?style=flat&logo=object-tracking)&nbsp;
+  ![Flask-RESTful](https://img.shields.io/badge/-Flask--RESTful-05122A?style=flat&logo=flask)&nbsp;\
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+  ![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
+  ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform%20%28GCP%29-05122A?style=flat&logo=google-cloud)&nbsp;
 <div align="right">
   <a href="https://drive.google.com/file/d/1g9qogPxQd1bmdqZP5GHCqRzuZj7__swB/view?usp=drive_link">
-    <img src="https://your-image-url.com/your-resume-image.jpg" alt="Resume Thumbnail">
+    <img src="https://github.com/samthakur587/samthakur587/blob/main/Screenshot%202023-10-15%20232757.png" width='150' heght='200' alt="Resume Thumbnail">
   </a>
 </div>
 
-
-### 🛠 &nbsp;Tech Stack
-
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![Python](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=python)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
-![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)&nbsp;\
-![Plotly](https://img.shields.io/badge/-Plotly-05122A?style=flat&logo=plotly)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;\
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
-![RCNN family](https://img.shields.io/badge/-RCNN%20family-05122A?style=flat&logo=rcnn)&nbsp;
-![YOLO family](https://img.shields.io/badge/-YOLO%20family-05122A?style=flat&logo=yolo)&nbsp;\
-![SSD](https://img.shields.io/badge/-SSD-05122A?style=flat&logo=ssd)&nbsp;
-![Object Segmentation (Mask-RCNN)](https://img.shields.io/badge/-Object%20Segmentation%20%28Mask--RCNN%29-05122A?style=flat&logo=mask-rcnn)&nbsp;
-![Object Tracking](https://img.shields.io/badge/-Object%20Tracking-05122A?style=flat&logo=object-tracking)&nbsp;
-![Flask-RESTful](https://img.shields.io/badge/-Flask--RESTful-05122A?style=flat&logo=flask)&nbsp;\
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=tableau)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;
-![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google%20Cloud%20Platform%20%28GCP%29-05122A?style=flat&logo=google-cloud)&nbsp;
 
 
 
