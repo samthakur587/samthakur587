@@ -2,14 +2,14 @@
 
 <p align="center"><img alt="Night Coding" src="Hand%20Wave.gif" width='50' align="center"/></p><h2 align="center">Hey there! I'm Samunder </h2>
 
-<h2 align="center">Aspiring Data Scientist | Electronics & Communication Engineering Student with a Passion for Machine Learning, Computer Vision, and NLP</h2>
+<h2 align="center">Python web Devloper | Django , Fastapi | Data Scientist | Electronics & Communication Engineering Student with a Passion for Machine Learning, Computer Vision, and NLP</h2>
 
 
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Electronics and communication Engineering at the Tezpur University.\
-✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science.\
+✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science Python web devlopment , backend Django.\
 ✉️ &nbsp;Please Feel free to contact me at singhsamunder270@gmail.com for any help, queries, or collaboration opportunities. I'll try to respond as soon as I can.
 
 <p align="center">
@@ -25,6 +25,7 @@
   
   ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)&nbsp;
   ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
+  ![django](https://img.shields.io/badge/-django-05122A?style=flat&logo=django)
   ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
   ![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=matplotlib)&nbsp;
   ![Seaborn](https://img.shields.io/badge/-Seaborn-05122A?style=flat&logo=seaborn)&nbsp;\
