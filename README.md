@@ -12,6 +12,8 @@
 ✍️ &nbsp;I am eager to collaborate on projects related to Machine Learning, Deep Learning, and Data Science Python web devlopment , backend Django.\
 ✉️ &nbsp;Please Feel free to contact me at singhsamunder270@gmail.com for any help, queries, or collaboration opportunities. I'll try to respond as soon as I can.
 
+# Hacktober Fest
+
 [![An image of @samthakur587's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samthakur587)](https://holopin.io/@samthakur587)
 
 <p align="center">
